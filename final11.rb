@@ -1,0 +1,1 @@
+Omniauth-Faceboo/Koala. Because we can use it for authentication via FB in our apps.
